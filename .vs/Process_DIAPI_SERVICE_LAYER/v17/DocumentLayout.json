@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|d:\\j\u00F4natas - sap\\dev\\estudos\\treinamentos sdk sap b1\\curso sdk - alex vergari 2024\\projetos\\process_diapi_service_layer\\sapb1_sl_diapi\\process_diapi_service_layer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|solutionrelative:process_diapi_service_layer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\process_diapi_service_layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|solutionrelative:process_diapi_service_layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\process_diapi_service_layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|solutionrelative:process_diapi_service_layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\process_diapi_service_layer\\models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|solutionrelative:process_diapi_service_layer\\models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\process_diapi_service_layer\\models\\bpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|solutionrelative:process_diapi_service_layer\\models\\bpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\process_diapi_service_layer\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|solutionrelative:process_diapi_service_layer\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\process_diapi_service_layer\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C544858-CD88-421D-82D5-64D1024F556E}|Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER.csproj|solutionrelative:process_diapi_service_layer\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersModel.cs",
+              "DocumentMoniker": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\OrdersModel.cs",
+              "RelativeDocumentMoniker": "Process_DIAPI_SERVICE_LAYER\\Models\\OrdersModel.cs",
+              "ToolTip": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\OrdersModel.cs",
+              "RelativeToolTip": "Process_DIAPI_SERVICE_LAYER\\Models\\OrdersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:27:49.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BPmodel.cs",
+              "DocumentMoniker": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\BPmodel.cs",
+              "RelativeDocumentMoniker": "Process_DIAPI_SERVICE_LAYER\\Models\\BPmodel.cs",
+              "ToolTip": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\BPmodel.cs",
+              "RelativeToolTip": "Process_DIAPI_SERVICE_LAYER\\Models\\BPmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:29:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\Error.cs",
+              "RelativeDocumentMoniker": "Process_DIAPI_SERVICE_LAYER\\Models\\Error.cs",
+              "ToolTip": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\Error.cs",
+              "RelativeToolTip": "Process_DIAPI_SERVICE_LAYER\\Models\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:46:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Process_DIAPI_SERVICE_LAYER\\Models\\Login.cs",
+              "ToolTip": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Models\\Login.cs",
+              "RelativeToolTip": "Process_DIAPI_SERVICE_LAYER\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:40:55.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Connection.cs",
+              "RelativeDocumentMoniker": "Process_DIAPI_SERVICE_LAYER\\Connection.cs",
+              "ToolTip": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Connection.cs",
+              "RelativeToolTip": "Process_DIAPI_SERVICE_LAYER\\Connection.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:29:50.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Form1.cs",
+              "RelativeDocumentMoniker": "Process_DIAPI_SERVICE_LAYER\\Form1.cs",
+              "ToolTip": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Form1.cs",
+              "RelativeToolTip": "Process_DIAPI_SERVICE_LAYER\\Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwDQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:26:00.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO SDK - ALEX VERGARI 2024\\PROJETOS\\Process_DIAPI_SERVICE_LAYER\\SAPB1_SL_DIAPI\\Process_DIAPI_SERVICE_LAYER\\Form1.cs",
+              "RelativeDocumentMoniker": "Process_DIAPI_SERVICE_LAYER\\Form1.cs",
+              "ToolTip": "D:\\J\u00F4natas - SAP\\DEV\\ESTUDOS\\TREINAMENTOS SDK SAP B1\\CURSO - ALEX VERGARI 2024\\Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\CURSO - ALEX VERGARI 2024\\Process_DIAPI_SERVICE_LAYER\\Process_DIAPI_SERVICE_LAYER\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T00:23:50.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
